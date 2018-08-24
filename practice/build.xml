@@ -1,0 +1,6 @@
+<project name="sagar-ant-project" default="targetA">
+<target name="targetA">
+<task>echo "hello-world"</task>
+</target>
+
+</project>
